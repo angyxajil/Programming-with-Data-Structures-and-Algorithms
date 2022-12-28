@@ -1,0 +1,7 @@
+Tile 1: B,B,Y,O,P,G
+Tile 2: O,B,G,Y,P,Y
+Tile 3: P,G,B,R,B,Y
+Tile 4: O,B,P,O,Y,G
+Tile 5: O,R,O,B,P,R
+Tile 6: R,Y,R,O,P,B
+Tile 7: O,G,R,O,G,G

@@ -1,0 +1,7 @@
+Tile 1: G,G,G,G,G,G
+Tile 2: G,G,G,G,G,G
+Tile 3: G,G,G,G,G,G
+Tile 4: G,G,G,G,G,G
+Tile 5: G,G,G,G,G,G
+Tile 6: G,G,G,G,G,G
+Tile 7: G,G,G,G,G,G
